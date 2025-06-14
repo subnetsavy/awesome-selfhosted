@@ -2117,6 +2117,7 @@ A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_
 **Please visit [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
 
+- [Subnet Savy: Kubernetes + Tailscale Mesh Guide](https://subnetsavy.com/wp-content/uploads/articles/tailscale-k8s-mesh-guide.html) - Guide to connecting Kubernetes clusters securely using Tailscale’s mesh VPN and MagicDNS.
 
 ### Web Servers
 
